@@ -4,7 +4,7 @@
 
 ### Demo
 
-You can find LIVE DEMO <a href="https://os.devgr.com" target="_blank">HERE</a>
+You can find LIVE DEMO <a href="https://ostore.netlify.app" target="_blank">HERE</a>
 
 Author - [@Gabriel](https://www.github.com/9a8ri3l)
 
@@ -17,15 +17,15 @@ Author - [@Gabriel](https://www.github.com/9a8ri3l)
 
 #### Desktop
 
-> <img src="https://devgr.com/screenshots/ONLINEstore/os_03.png" width="340" >
-> <img src="https://devgr.com/screenshots/ONLINEstore/os_04.png" width="340" >
+> <img src="https://i.imgur.com/rJ6CIsW.png" width="340" >
+> <img src="https://i.imgur.com/bHoSADt.png" width="340" >
 
 #### Mobile
 
-> <img src="https://devgr.com/screenshots/ONLINEstore/os_mob_01.png" width="170" >
-> <img src="https://devgr.com/screenshots/ONLINEstore/os_mob_02.png" width="170" >
-> <img src="https://devgr.com/screenshots/ONLINEstore/01/m-03.png" width="170" >
-> <img src="https://devgr.com/screenshots/ONLINEstore/01/m-04.png" width="170" >
+> <img src="https://i.imgur.com/GaENbv5.png" width="170" >
+> <img src="https://i.imgur.com/XPU2NUh.png" width="170" >
+> <img src="https://i.imgur.com/PuqdxGv.png" width="170" >
+> <img src="https://i.imgur.com/i5eRvCH.png" width="170" >
 
 ### Features
 
@@ -140,7 +140,7 @@ Contributions are always welcome!
 
 ### License [MIT](https://choosealicense.com/licenses/mit/)
 
-(c) 2022 [Gabriel](https://devgr.com)
+(c) 2022 [Gabriel](https://rgabriel.netlify.app/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
