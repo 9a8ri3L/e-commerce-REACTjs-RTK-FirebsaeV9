@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
-    "@reduxjs/toolkit": "^1.8.5",
+    "@reduxjs/toolkit": "^1.9.7",
     "axios": "^1.6.4",
     "encrypt-storage": "^2.12.8",
     "firebase": "^9.15.0",
