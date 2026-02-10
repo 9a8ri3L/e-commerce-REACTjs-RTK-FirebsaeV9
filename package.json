@@ -14,7 +14,7 @@
   "dependencies": {
     "@react-icons/all-files": "^4.1.0",
     "@reduxjs/toolkit": "^1.8.5",
-    "axios": "^1.6.4",
+    "axios": "^1.13.5",
     "encrypt-storage": "^2.12.8",
     "firebase": "^9.15.0",
     "process": "^0.11.10",
